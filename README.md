@@ -235,9 +235,7 @@ The web app accepts the following 13 clinical inputs:
 
 ---
 
-## 🙋 Author
 
-**Nandkishor** — [GitHub](https://github.com/nandkishor-ux)
 
 If you found this project helpful, consider giving it a ⭐!
 # ml_heart_disease
